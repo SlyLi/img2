@@ -7,5 +7,5 @@ def read_dictory(path):
 
 
 if __name__ == "__main__":
-    path = './fav-sfw1'
+    path = './fav-sfw'
     read_dictory(path)
